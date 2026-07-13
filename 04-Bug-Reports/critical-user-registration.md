@@ -125,4 +125,4 @@ O defeito será considerado corrigido quando:
 
 | Versão | Data       | Autor               | Observação           |
 | ------ | ---------- | ------------------- | -------------------- |
-| 1.0    | 13/07/2026 | Sara Borges Almeida | Criação do relatório |
+| 1.0    | 13/07/2026 | Sara Almeida        | Criação do relatório |

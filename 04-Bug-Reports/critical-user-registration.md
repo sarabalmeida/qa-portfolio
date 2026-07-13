@@ -11,7 +11,7 @@
 | Severidade    | Crítica               |
 | Prioridade    | Alta                  |
 | Status        | Aberto                |
-| Reportado por | Sara Borges Almeida   |
+| Reportado por | Sara Almeida   |
 | Data          | 13/07/2026            |
 | Ambiente      | Homologação           |
 

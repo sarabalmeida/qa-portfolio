@@ -7,7 +7,7 @@
 | Projeto        | Portal Web de Cadastro de Clientes |
 | Funcionalidade | Cadastro de Usuário                |
 | Versão         | 1.0                                |
-| Responsável    | Sara Borges Almeida                |
+| Responsável    | Sara Almeida                       |
 | Data           | Julho/2026                         |
 | Status         | Em elaboração                      |
 

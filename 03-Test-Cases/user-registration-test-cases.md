@@ -6,7 +6,7 @@
 | -------------- | --------------------- |
 | Funcionalidade | Cadastro de Usuário   |
 | Projeto        | Sistema Web (Exemplo) |
-| Autor          | Sara Borges Almeida   |
+| Autor          | Sara Almeida   |
 | Versão         | 1.0                   |
 
 ---

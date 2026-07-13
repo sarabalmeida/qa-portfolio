@@ -1,4 +1,3 @@
-# qa-portfolio
 # 🧪 QA Portfolio
 
 > Portfólio profissional de Qualidade de Software desenvolvido por **Sara Borges Almeida**.
@@ -209,7 +208,7 @@ Este repositório será atualizado continuamente com novos exemplos e estudos.
 
 **Sara Borges Almeida**
 
-* 💼 LinkedIn: *([adicione o link do seu perfil](https://www.linkedin.com/in/sarabalmeida/))*
+* 💼 LinkedIn: *([https://www.linkedin.com/in/sarabalmeida/]*
 * 📧 E-mail: *(sara.balmeida@hotmail.com)*
 
 ---
